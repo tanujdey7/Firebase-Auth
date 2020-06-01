@@ -8,6 +8,8 @@ Complete guide how to SignUp/SignIn using Firebase as backend	## Complete guide 
 </p>
 
 > **ToDo:** Error Message if Email already exists.
+## IMP
+### Import your own google-services.json file in `app > src >`
 # UML Diagram
 
 ![UML Diagram](https://github.com/tanujdey7/Flutter-Firebase-Auth/blob/master/screenshots/Untitled%20Diagram%20(1).png)
